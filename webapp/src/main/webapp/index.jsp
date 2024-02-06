@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to PUSHPARAJ DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for PUSHPARAJ Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Hello, Welcome to RADHAKRISHNA DevOps Project !!   </h1>
+<h2> RADHAKRISHNA Technologies </h2>
+<h2> Thank you </h2>
